@@ -1,4 +1,4 @@
-# POS Manual Testing Portfolio
+# POS-system-manual-testing
 
 This project demonstrates a structured manual testing approach for a Point of Sale (POS) system.
 
